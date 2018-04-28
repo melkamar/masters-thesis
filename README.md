@@ -23,4 +23,7 @@ English: Linked Data, RÚIAN, Framework, RDF, Android, map
 - `ddfparser` - sources of the ddfparser library
 - `indexer` - sources of the index server
 - `stress-data` - data used for stress-testing the framework
+- `thesis` - the source of the thesis document
 - `viewlink` - sources of the Android application
+- `thesis.pdf` - the thesis
+- `thesis-assignment.pdf` - the assignment of the thesis
