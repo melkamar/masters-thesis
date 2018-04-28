@@ -13,3 +13,6 @@
 [submodule "stress-data"]
 	path = stress-data
 	url = https://github.com/andruian/stress-data.git
+[submodule "thesis"]
+	path = thesis
+	url = https://git.overleaf.com/12504999vkrgdpxfrtdw
