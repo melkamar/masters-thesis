@@ -1,0 +1,15 @@
+[submodule "andruian"]
+	path = andruian
+	url = https://github.com/andruian/andruian.git
+[submodule "indexer"]
+	path = indexer
+	url = https://github.com/andruian/indexer.git
+[submodule "viewlink"]
+	path = viewlink
+	url = https://github.com/andruian/viewlink.git
+[submodule "ddfparser"]
+	path = ddfparser
+	url = https://github.com/andruian/ddfparser.git
+[submodule "stress-data"]
+	path = stress-data
+	url = https://github.com/andruian/stress-data.git
