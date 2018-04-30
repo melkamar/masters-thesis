@@ -18,8 +18,8 @@ English: Linked Data, RÚIAN, Framework, RDF, Android, map
   - `example-data` - RDF data (data definitions and appropriate datasets) illustrating the usage of the framework
 - `build` - build artifacts of the individual components
   - `indexer` - the index server
-  - `ddfparser-1.0.8.jar` - the ddfparser library
-  - `viewlink-1.1.1.apk` - the ViewLink Android application
+  - `ddfparser-*.jar` - the ddfparser library
+  - `viewlink-*.apk` - the ViewLink Android application
 - `ddfparser` - sources of the ddfparser library
 - `indexer` - sources of the index server
 - `stress-data` - data used for stress-testing the framework
