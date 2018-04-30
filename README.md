@@ -22,6 +22,10 @@ English: Linked Data, RÚIAN, Framework, RDF, Android, map
   - `viewlink-*.apk` - the ViewLink Android application
 - `ddfparser` - sources of the ddfparser library
 - `indexer` - sources of the index server
+  - `docker` - Docker-related setup files
+  - `docs` - generated documentation
+  - `solr` - configuration files for Solr
+  - `src` - source code of the index server
 - `stress-data` - data used for stress-testing the framework
 - `thesis` - the source of the thesis document
 - `viewlink` - sources of the Android application
