@@ -36,3 +36,4 @@ English: Linked Data, RÚIAN, Framework, RDF, Android, map
 - The thesis is publicly available on:
   - [GitHub](https://github.com/melkamar/masters-thesis) as soon as it is formally defended in June of 2018.
   - [CTU digital library](https://dspace.cvut.cz/). Search for the thesis title.
+- [andruian](https://github.com/andruian) GitHub project contains all the source code.
